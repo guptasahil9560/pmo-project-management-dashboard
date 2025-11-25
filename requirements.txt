@@ -1,0 +1,9 @@
+pandas>=1.5
+numpy
+reportlab
+python-dateutil
+pyyaml
+openpyxl
+xlrd
+pytest
+flake8
